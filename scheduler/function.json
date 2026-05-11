@@ -2,6 +2,7 @@
   "scriptFile": "__init__.py",
   "bindings": [
     {
+      "authLevel": "anonymous",
       "name": "timer",
       "type": "timerTrigger",
       "direction": "in",
